@@ -1,0 +1,158 @@
+[
+ {
+  "id": "housing-shortage",
+  "label": "homes short nationally",
+  "value": "384,000",
+  "unit": "homes short (4.6% of stock)",
+  "year": "2026",
+  "source": "https://www.volkshuisvestingnederland.nl/onderwerpen/berekening-woningbouwopgave",
+  "source_name": "ABF Research Primos 2026 / BZK",
+  "home": true,
+  "source_short": "ABF Research"
+ },
+ {
+  "id": "student-housing-shortage",
+  "label": "student homes short",
+  "value": "20,200",
+  "unit": "student homes short",
+  "year": "2026",
+  "source": "https://www.volkshuisvestingnederland.nl/actueel/nieuws/2026/09/03/bijna-5.000-nieuwe-studentenwoningen-in-2025",
+  "source_name": "Landelijke Monitor Studentenhuisvesting 2026 (BZK/Kences)",
+  "home": true,
+  "source_short": "Student housing monitor"
+ },
+ {
+  "id": "avg-rent-new-lease",
+  "label": "average new rent per month",
+  "value": "€1,914",
+  "unit": "per month",
+  "year": "2026 Q3",
+  "source": "https://www.pararius.com/news/most-expensive-rental-homes-now-sold-most-often",
+  "source_name": "Pararius",
+  "home": true,
+  "source_short": "Pararius"
+ },
+ {
+  "id": "social-wait-amsterdam",
+  "label": "social housing wait in Amsterdam",
+  "value": "9.8",
+  "unit": "years average registration time",
+  "year": "2024",
+  "source": "https://www.nul20.nl/sites/default/files/bijlages/infographic_jaarbericht_2025.pdf",
+  "source_name": "AFWC Jaarbericht 2025",
+  "home": true,
+  "display": "9.8 yrs",
+  "source_short": "AFWC"
+ },
+ {
+  "id": "rent-m2-amsterdam",
+  "label": "rent on new leases",
+  "value": "€28.56",
+  "unit": "per m² per month",
+  "year": "2026 Q3",
+  "source": "https://www.pararius.com/news/most-expensive-rental-homes-now-sold-most-often",
+  "source_name": "Pararius",
+  "city": "amsterdam",
+  "display": "€28.56 / m²",
+  "source_short": "Pararius"
+ },
+ {
+  "id": "rent-m2-utrecht",
+  "label": "rent on new leases",
+  "value": "€22.87",
+  "unit": "per m² per month",
+  "year": "2026 Q3",
+  "source": "https://www.pararius.com/news/most-expensive-rental-homes-now-sold-most-often",
+  "source_name": "Pararius",
+  "city": "utrecht",
+  "display": "€22.87 / m²",
+  "source_short": "Pararius"
+ },
+ {
+  "id": "rent-m2-rotterdam",
+  "label": "rent on new leases",
+  "value": "€22.92",
+  "unit": "per m² per month",
+  "year": "2026 Q3",
+  "source": "https://www.pararius.com/news/most-expensive-rental-homes-now-sold-most-often",
+  "source_name": "Pararius",
+  "city": "rotterdam",
+  "display": "€22.92 / m²",
+  "source_short": "Pararius"
+ },
+ {
+  "id": "rent-m2-den-haag",
+  "label": "rent on new leases",
+  "value": "€22.95",
+  "unit": "per m² per month",
+  "year": "2026 Q3",
+  "source": "https://www.pararius.com/news/most-expensive-rental-homes-now-sold-most-often",
+  "source_name": "Pararius",
+  "city": "den-haag",
+  "display": "€22.95 / m²",
+  "source_short": "Pararius"
+ },
+ {
+  "id": "social-wait-utrecht",
+  "label": "Social housing wait, Utrecht",
+  "value": "11.6",
+  "unit": "years average",
+  "year": "2024",
+  "source": "https://www.duic.nl/wonen/jongeren-in-utrecht-hebben-het-nog-moeilijker-op-de-woningmarkt/",
+  "source_name": "Gemeente Utrecht, Rapportage wonen 2024 (via DUIC)"
+ },
+ {
+  "id": "rental-supply-drop",
+  "label": "Free-sector rental supply, year on year",
+  "value": "-12.9%",
+  "unit": "homes listed (13,517 vs 15,515)",
+  "year": "2026 Q3",
+  "source": "https://www.pararius.com/news/most-expensive-rental-homes-now-sold-most-often",
+  "source_name": "Pararius"
+ },
+ {
+  "id": "income-needed",
+  "label": "Income needed for average rental",
+  "value": "€5,742",
+  "unit": "gross per month (3x rent)",
+  "year": "2026 Q3",
+  "source": "https://www.pararius.com/news/most-expensive-rental-homes-now-sold-most-often",
+  "source_name": "Pararius"
+ },
+ {
+  "id": "international-students-share",
+  "label": "International degree students",
+  "value": "17%",
+  "unit": "of all students (129,764)",
+  "year": "2025-26",
+  "source": "https://www.nuffic.nl/en/node/2102",
+  "source_name": "Nuffic"
+ },
+ {
+  "id": "mid-rent-cap",
+  "label": "Mid-rent max rent (186 points)",
+  "value": "€1,228.07",
+  "unit": "per month, basic rent",
+  "year": "2026",
+  "source": "https://www.rijksoverheid.nl/actueel/nieuws/2025/11/25/indexering-inkomensgrenzen-woningcorporaties-maximale-huurprijsgrenzen-en-huurtoeslagparameters-2026",
+  "source_name": "Rijksoverheid"
+ },
+ {
+  "id": "student-room-rent",
+  "label": "Avg student room rent",
+  "value": "€643",
+  "unit": "per month",
+  "year": "2026 Q2",
+  "source": "https://nltimes.nl/2026/07/30/student-rooms-outside-randstad-becoming-expensive",
+  "source_name": "Kamernet (via NL Times/ANP)"
+ },
+ {
+  "id": "reactions-per-social-home-utrecht",
+  "label": "Reactions per social home, Utrecht",
+  "value": "671",
+  "unit": "reactions per home (3% success rate)",
+  "year": "2024",
+  "source": "https://www.duic.nl/wonen/jongeren-in-utrecht-hebben-het-nog-moeilijker-op-de-woningmarkt/",
+  "source_name": "Gemeente Utrecht, Rapportage wonen 2024 (via DUIC)"
+ }
+]

@@ -1,0 +1,22 @@
+[
+  {"slug": "amsterdam", "name": "Amsterdam", "lat": 52.3676, "lon": 4.9041, "region": "Randstad", "nearby": ["Amstelveen", "Diemen", "Duivendrecht", "Badhoevedorp", "Hoofddorp"], "label": "top"},
+  {"slug": "rotterdam", "name": "Rotterdam", "lat": 51.9244, "lon": 4.4777, "region": "Randstad", "nearby": ["Schiedam", "Capelle aan den IJssel", "Vlaardingen", "Barendrecht"], "label": "right"},
+  {"slug": "den-haag", "name": "The Hague", "name_nl": "Den Haag", "lat": 52.0705, "lon": 4.3007, "region": "Randstad", "nearby": ["Rijswijk", "Zoetermeer", "Voorburg", "Leidschendam", "Scheveningen"], "label": "left"},
+  {"slug": "utrecht", "name": "Utrecht", "lat": 52.0907, "lon": 5.1214, "region": "Randstad", "nearby": ["Nieuwegein", "Zeist", "Maarssen", "Houten", "Leidsche Rijn"], "label": "right"},
+  {"slug": "leiden", "name": "Leiden", "lat": 52.1601, "lon": 4.497, "region": "Randstad", "nearby": ["Oegstgeest", "Leiderdorp", "Voorschoten"], "label": "right"},
+  {"slug": "delft", "name": "Delft", "lat": 52.0116, "lon": 4.3571, "region": "Randstad", "nearby": ["Rijswijk"], "label": "right"},
+  {"slug": "haarlem", "name": "Haarlem", "lat": 52.3874, "lon": 4.6462, "region": "Randstad", "nearby": ["Heemstede"], "label": "left"},
+  {"slug": "almere", "name": "Almere", "lat": 52.3508, "lon": 5.2647, "region": "Randstad", "nearby": ["Lelystad"], "label": "right"},
+  {"slug": "amersfoort", "name": "Amersfoort", "lat": 52.1561, "lon": 5.3878, "region": "Centre", "nearby": ["Leusden"], "label": "right"},
+  {"slug": "eindhoven", "name": "Eindhoven", "lat": 51.4416, "lon": 5.4697, "region": "South", "nearby": ["Helmond", "Veldhoven"], "label": "right"},
+  {"slug": "tilburg", "name": "Tilburg", "lat": 51.5555, "lon": 5.0913, "region": "South", "nearby": [], "label": "bottom"},
+  {"slug": "breda", "name": "Breda", "lat": 51.5719, "lon": 4.7683, "region": "South", "nearby": [], "label": "left"},
+  {"slug": "den-bosch", "name": "Den Bosch", "name_nl": "'s-Hertogenbosch", "lat": 51.6978, "lon": 5.3037, "region": "South", "nearby": ["'s-Hertogenbosch", "Vught"], "label": "right"},
+  {"slug": "maastricht", "name": "Maastricht", "lat": 50.8514, "lon": 5.691, "region": "South", "nearby": ["Sittard", "Heerlen"], "label": "right"},
+  {"slug": "nijmegen", "name": "Nijmegen", "lat": 51.8126, "lon": 5.8372, "region": "East", "nearby": [], "label": "right"},
+  {"slug": "arnhem", "name": "Arnhem", "lat": 51.9851, "lon": 5.8987, "region": "East", "nearby": ["Velp"], "label": "right"},
+  {"slug": "wageningen", "name": "Wageningen", "lat": 51.9692, "lon": 5.6654, "region": "East", "nearby": ["Ede"], "label": "left"},
+  {"slug": "enschede", "name": "Enschede", "lat": 52.2215, "lon": 6.8937, "region": "East", "nearby": ["Hengelo"], "label": "left"},
+  {"slug": "zwolle", "name": "Zwolle", "lat": 52.5168, "lon": 6.083, "region": "East", "nearby": ["Kampen"], "label": "right"},
+  {"slug": "groningen", "name": "Groningen", "lat": 53.2194, "lon": 6.5665, "region": "North", "nearby": ["Haren"], "label": "left"}
+]
