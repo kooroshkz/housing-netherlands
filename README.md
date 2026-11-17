@@ -106,7 +106,7 @@ If this helped you, a ⭐ helps others find it.
 
 **Managed apartments**
 
-- [Holland2Stay](https://www.holland2stay.com/residences) 🎓🔬💼 Book directly, or the Tuesday 17:00 lottery · First come · €1,100–2,500
+- [Codomo](https://codomo.eu/homes/nl/en) 🎓🔬💼 Formerly Holland2Stay; book directly or register for a shortlist · First come · €650–3,000
 - [Roofz · The Cohesion](https://roofz.eu/huur/woningen) 🎓🔬💼 Young-professional buildings, first come · First come · €1,300–1,700
 - [Our Domain](https://www.thisisourdomain.nl/book-now) 🎓🔬💼 Big Greystar buildings in Diemen and Zuidoost · Book online · €1,040–2,140 + service
 
@@ -194,7 +194,7 @@ If this helped you, a ⭐ helps others find it.
 
 **Managed apartments**
 
-- [Holland2Stay](https://www.holland2stay.com/residences) 🎓🔬💼 Book directly, or the Tuesday 17:00 lottery · First come · €1,100–2,500
+- [Codomo](https://codomo.eu/homes/nl/en) 🎓🔬💼 Formerly Holland2Stay; book directly or register for a shortlist · First come · €650–3,000
 - [Roofz · The Cohesion](https://roofz.eu/huur/woningen) 🎓🔬💼 Young-professional buildings, first come · First come · €1,300–1,700
 - [Canvas Brainpark](https://www.canvas-world.com/en/locations/netherlands/rotterdam/brainpark) 🔬💼 Furnished studios for starters and PhDs · Book online · €1,270–1,350
 
@@ -271,7 +271,7 @@ If this helped you, a ⭐ helps others find it.
 
 **Managed apartments**
 
-- [Holland2Stay](https://www.holland2stay.com/residences) 🎓🔬💼 Book directly, or the Tuesday 17:00 lottery · First come · €1,100–2,500
+- [Codomo](https://codomo.eu/homes/nl/en) 🎓🔬💼 Formerly Holland2Stay; book directly or register for a shortlist · First come · €650–3,000
 - [Momento](https://www.momentoliving.com/nl/locations/netherlands/rijswijk) 🔬💼 Greystar in Rijswijk; live availability, no fees · Book online · €1,230–1,975
 - [Magis Real Estate](https://magisrealestate.com/for-rent) 🔬💼 Rijswijk, Den Bosch, Amersfoort; lottery · Lottery · €190–1,990
 
@@ -353,7 +353,7 @@ If this helped you, a ⭐ helps others find it.
 
 **Managed apartments**
 
-- [Holland2Stay](https://www.holland2stay.com/residences) 🎓🔬💼 Book directly, or the Tuesday 17:00 lottery · First come · €1,100–2,500
+- [Codomo](https://codomo.eu/homes/nl/en) 🎓🔬💼 Formerly Holland2Stay; book directly or register for a shortlist · First come · €650–3,000
 
 **Student housing**
 
@@ -422,7 +422,7 @@ If this helped you, a ⭐ helps others find it.
 
 **Managed apartments**
 
-- [Holland2Stay](https://www.holland2stay.com/residences) 🎓🔬💼 Book directly, or the Tuesday 17:00 lottery · First come · €1,100–2,500
+- [Codomo](https://codomo.eu/homes/nl/en) 🎓🔬💼 Formerly Holland2Stay; book directly or register for a shortlist · First come · €650–3,000
 
 **Student housing**
 
@@ -480,7 +480,7 @@ If this helped you, a ⭐ helps others find it.
 
 **Managed apartments**
 
-- [Holland2Stay](https://www.holland2stay.com/residences) 🎓🔬💼 Book directly, or the Tuesday 17:00 lottery · First come · €1,100–2,500
+- [Codomo](https://codomo.eu/homes/nl/en) 🎓🔬💼 Formerly Holland2Stay; book directly or register for a shortlist · First come · €650–3,000
 
 **Student housing**
 
@@ -533,7 +533,7 @@ If this helped you, a ⭐ helps others find it.
 
 **Managed apartments**
 
-- [Holland2Stay](https://www.holland2stay.com/residences) 🎓🔬💼 Book directly, or the Tuesday 17:00 lottery · First come · €1,100–2,500
+- [Codomo](https://codomo.eu/homes/nl/en) 🎓🔬💼 Formerly Holland2Stay; book directly or register for a shortlist · First come · €650–3,000
 
 **Student housing**
 
@@ -599,7 +599,7 @@ If this helped you, a ⭐ helps others find it.
 
 **Managed apartments**
 
-- [Holland2Stay](https://www.holland2stay.com/residences) 🎓🔬💼 Book directly, or the Tuesday 17:00 lottery · First come · €1,100–2,500
+- [Codomo](https://codomo.eu/homes/nl/en) 🎓🔬💼 Formerly Holland2Stay; book directly or register for a shortlist · First come · €650–3,000
 - [Magis Real Estate](https://magisrealestate.com/for-rent) 🔬💼 Rijswijk, Den Bosch, Amersfoort; lottery · Lottery · €190–1,990
 
 **Student housing**
@@ -638,7 +638,7 @@ If this helped you, a ⭐ helps others find it.
 
 **Managed apartments**
 
-- [Holland2Stay](https://www.holland2stay.com/residences) 🎓🔬💼 Book directly, or the Tuesday 17:00 lottery · First come · €1,100–2,500
+- [Codomo](https://codomo.eu/homes/nl/en) 🎓🔬💼 Formerly Holland2Stay; book directly or register for a shortlist · First come · €650–3,000
 - [Roofz · The Cohesion](https://roofz.eu/huur/woningen) 🎓🔬💼 Young-professional buildings, first come · First come · €1,300–1,700
 
 **Student housing**
@@ -699,7 +699,7 @@ If this helped you, a ⭐ helps others find it.
 
 **Managed apartments**
 
-- [Holland2Stay](https://www.holland2stay.com/residences) 🎓🔬💼 Book directly, or the Tuesday 17:00 lottery · First come · €1,100–2,500
+- [Codomo](https://codomo.eu/homes/nl/en) 🎓🔬💼 Formerly Holland2Stay; book directly or register for a shortlist · First come · €650–3,000
 
 **Student housing**
 
@@ -789,7 +789,7 @@ If this helped you, a ⭐ helps others find it.
 
 **Managed apartments**
 
-- [Holland2Stay](https://www.holland2stay.com/residences) 🎓🔬💼 Book directly, or the Tuesday 17:00 lottery · First come · €1,100–2,500
+- [Codomo](https://codomo.eu/homes/nl/en) 🎓🔬💼 Formerly Holland2Stay; book directly or register for a shortlist · First come · €650–3,000
 - [Magis Real Estate](https://magisrealestate.com/for-rent) 🔬💼 Rijswijk, Den Bosch, Amersfoort; lottery · Lottery · €190–1,990
 
 **Student housing**
@@ -832,7 +832,7 @@ If this helped you, a ⭐ helps others find it.
 
 **Managed apartments**
 
-- [Holland2Stay](https://www.holland2stay.com/residences) 🎓🔬💼 Book directly, or the Tuesday 17:00 lottery · First come · €1,100–2,500
+- [Codomo](https://codomo.eu/homes/nl/en) 🎓🔬💼 Formerly Holland2Stay; book directly or register for a shortlist · First come · €650–3,000
 
 **Student housing**
 
@@ -884,7 +884,7 @@ If this helped you, a ⭐ helps others find it.
 
 **Managed apartments**
 
-- [Holland2Stay](https://www.holland2stay.com/residences) 🎓🔬💼 Book directly, or the Tuesday 17:00 lottery · First come · €1,100–2,500
+- [Codomo](https://codomo.eu/homes/nl/en) 🎓🔬💼 Formerly Holland2Stay; book directly or register for a shortlist · First come · €650–3,000
 
 **Student housing**
 
@@ -932,7 +932,7 @@ If this helped you, a ⭐ helps others find it.
 
 **Managed apartments**
 
-- [Holland2Stay](https://www.holland2stay.com/residences) 🎓🔬💼 Book directly, or the Tuesday 17:00 lottery · First come · €1,100–2,500
+- [Codomo](https://codomo.eu/homes/nl/en) 🎓🔬💼 Formerly Holland2Stay; book directly or register for a shortlist · First come · €650–3,000
 
 **Student housing**
 
@@ -1094,7 +1094,7 @@ If this helped you, a ⭐ helps others find it.
 
 **Managed apartments**
 
-- [Holland2Stay](https://www.holland2stay.com/residences) 🎓🔬💼 Book directly, or the Tuesday 17:00 lottery · First come · €1,100–2,500
+- [Codomo](https://codomo.eu/homes/nl/en) 🎓🔬💼 Formerly Holland2Stay; book directly or register for a shortlist · First come · €650–3,000
 
 **Student housing**
 
